@@ -1,0 +1,9 @@
+<?php
+define("FFMPEG","");
+define("THUMBNAIL_PATH","");
+define("GOOGLE_CLIENT_ID","");
+define("ROOT_PATH","");
+define("SITE_URL","");
+define("SUBSCRIBER_COUNT","");
+define("SENDER_EMAIL","");
+?>

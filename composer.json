@@ -1,0 +1,8 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "^7.5",
+        "ezsql/ezsql": "^4.0",
+        "aws/aws-sdk-php": "^3.142",
+        "google/apiclient": "^2.5"
+    }
+}
